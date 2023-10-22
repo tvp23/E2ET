@@ -1,0 +1,16 @@
+{
+    "name": "E2ET",
+    "version": "1.0.0",
+    "author": "Twan",
+    "type": "commonjs",
+    "dependencies": {
+        "assert": "^2.1.0",
+        "dotenv": "^16.3.1",
+        "mocha": "^10.2.0",
+        "node-fetch": "^2.7.0",
+        "selenium-webdriver": "^4.14.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
